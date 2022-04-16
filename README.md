@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Creskendoll/Creskendoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey traveller 👋, I'm Kenan</h1>
+<h1 align="center">Hey traveller 👋, this is Kenan</h1>
 
-- 🔭 I’m currently working as a full stack developer for [RFOcean](https://rfocean.com/)
-- 📫 **kenn.soylu@gmail.com**
+- 🔭 Working at [Doctolib](https://about.doctolib.com/) as of March 2022
+- 🌱 Interests include data science, music and nature
+- 💻 Working on goofy projects like [Dada Poetic](https://www.dadapoetic.com/) and [Love Counter](https://kenansoylu.com/love)
+- 📍 Living in Berlin, originally from Istanbul
+- 🤔 Sucker for questionable cutting edge tech 
+- 📫 [Outdated site](https://kenansoylu.com/)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Creskendoll&label=Views&color=lightgrey&style=flat-square" alt="Creskendoll" /> 
