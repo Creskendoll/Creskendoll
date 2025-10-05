@@ -32,8 +32,3 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Creskendoll&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creskendoll&layout=compact&langs_count=8&theme=blue-green&hide_border=true" />
-
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Creskendoll&theme=blue-green&hide_border=true" alt="Creskendoll" />
-</p>
